@@ -1,0 +1,7 @@
+{
+  "name": "Es Variat Mallorquí",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
